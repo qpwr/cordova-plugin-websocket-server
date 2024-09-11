@@ -1,4 +1,4 @@
-Important: This plugin is technically the same as the original, but uses an xcframework insteaf of a static library for PocketSocket to be able to support Mac Catalyst.
+Important: This plugin is technically the same as the original, but uses an xcframework instead of a static library for PocketSocket to be able to support Mac Catalyst.
 
 --- Original Readme --
 
