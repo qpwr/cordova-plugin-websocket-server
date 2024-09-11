@@ -1,3 +1,7 @@
+Important: This plugin is technically the same as the original, but uses an xcframework insteaf of a static library for PocketSocket to be able to support Mac Catalyst.
+
+--- Original Readme --
+
 # Cordova WebSocket Server Plugin
 
 This plugin allows you to run a single, lightweight, barebone WebSocket Server from applications developed using PhoneGap/Cordova 3.0 or newer.
